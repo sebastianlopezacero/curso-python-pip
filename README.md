@@ -16,3 +16,15 @@ Para graficar debes seguir las siguientes instrucciones en la terminal
 cd charts
 python3  main.py
 ```
+
+# App Project
+
+Para usar app debes seguir las siguientes instrucciones en la terminal
+
+```sh 
+git clone
+cd app
+source env/bin/activate
+pip3 install -r requirements.txt
+python3  main.py
+```
